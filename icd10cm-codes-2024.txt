@@ -1,4 +1,4 @@
-codigo, diagnostico
+codigo; diagnostico
 F0150;Vascular dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety
 F01511;Vascular dementia, unspecified severity, with agitation
 F01518;Vascular dementia, unspecified severity, with other behavioral disturbance

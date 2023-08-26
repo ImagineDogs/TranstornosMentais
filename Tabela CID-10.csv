@@ -321,6 +321,7 @@ E21,Hiperparatireoidismo e outros transtornos da glândula paratireóide
 E22,Hiperfunção da hipófise
 E23,Hipofunção e outros transtornos da hipófise
 E24,Síndrome de Cushing
+E25,Transtornos adrenogenitais
 E26,Hiperaldosteronismo
 E27,Outros transtornos da glândula supra-renal
 E28,Disfunção ovariana
@@ -435,6 +436,7 @@ F90,Transtornos hipercinéticos
 F91,Distúrbios de conduta
 F92,Transtornos mistos de conduta e das emoções
 F93,Transtornos emocionais com início especificamente na infância
+F94,Transtornos do Funcionamento Social com Inicio Especificamente Durante a Infancia ou a Adolescencia
 F95,Tiques
 F98,Outros transtornos comportamentais e emocionais com início habitualmente durante a infância ou a adolescência
 F99,Transtorno mental não especificado em outra parte
@@ -1412,6 +1414,7 @@ T43,Intoxicação por drogas psicotrópicas não classificadas em outra parte
 T44,Intoxicação por drogas que afetam principalmente o sistema nervoso autônomo
 T45,"Intoxicação por substâncias de ação essencialmente sistêmica e substâncias hematológicas, não classificadas em outra parte"
 T48,Intoxicação por substâncias que atuam primariamente sobre os músculos lisos e esqueléticos e sobre o aparelho respiratório
+T49,"Intoxicação por Substancias de Uso Topico Que Atuam Primariamente Sobre a Pele e as Mucosas e por Medicamentos Utilizados em Oftalmologia, Otorrinolar -"
 T50,"Intoxicação por diuréticos e outras drogas, medicamentos e substâncias biológicas e as não especificadas"
 T51,Efeito tóxico do álcool
 T52,Efeito tóxico de solventes orgânicos
@@ -1586,6 +1589,7 @@ X74,Lesão autoprovocada intencionalmente por disparo de outra arma de fogo e de
 X77,"Lesão autoprovocada intencionalmente por vapor de água, gases ou objetos quentes"
 X78,Lesão autoprovocada intencionalmente por objeto cortante ou penetrante
 X80,Lesão autoprovocada intencionalmente por precipitação de um lugar elevado
+X81,Lesão autoprovocada intencionalmente por precipitacão ou permanencia diante de um objeto em movimento
 X82,Lesão autoprovocada intencionalmente por impacto de um veículo a motor
 X83,Lesão autoprovocada intencionalmente por outros meios especificados
 X84,Lesão autoprovocada intencionalmente por meios não especificados
@@ -1706,6 +1710,7 @@ Z87,História pessoal de outras doenças e afecções
 Z88,"História pessoal de alergia a drogas, medicamentos e a substâncias biológicas"
 Z89,Ausência adquirida de membros
 Z90,Ausência adquirida de órgãos não classificados em outra parte
+Z91,"Historia Pessoal de Fatores de Risco, Não Classificados em Outra Parte"
 Z92,História pessoal de tratamento médico
 Z93,Orifícios artificiais
 Z94,Órgãos e tecidos transplantados

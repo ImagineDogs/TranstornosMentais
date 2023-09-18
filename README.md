@@ -10,3 +10,6 @@ Pedro Henrique de Freitas Maçonetto - pedromaconetto@usp.br
 ### Descrição do projeto
 Análise de dados de internações de hospitais especializados em transtornos mentais da região de Ribeirão preto
 
+### O que foi feito antes do primeiro commit 
+![Alt text]( "a title")
+

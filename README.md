@@ -11,5 +11,5 @@ Pedro Henrique de Freitas Maçonetto - pedromaconetto@usp.br
 Análise de dados de internações de hospitais especializados em transtornos mentais da região de Ribeirão preto
 
 ### O que foi feito antes do primeiro commit 
-![Alt text]( "a title")
+![Alt text](https://github.com/ImagineDogs/TranstornosMentais/blob/main/prior_to_git.jpg "a title")
 

@@ -15,10 +15,10 @@ Análise de dados de internações de hospitais especializados em transtornos me
 
 ### Guia de reprodutividade:
 
-####Limpeza dos dados:
+#### Limpeza dos dados:
 dados brutos(total_dataset.csv) -> Limpeza.ipynb -> df_limpo.csv
 
-####Obtenção de rótulos CID10:
+#### Obtenção de rótulos CID10:
 df_limpo.csv,CID_10_familias.csv -> CID10.ipynb -> df_cid10.csv
 
 #### Demais análises

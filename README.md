@@ -13,3 +13,14 @@ Análise de dados de internações de hospitais especializados em transtornos me
 ### O que foi feito antes do primeiro commit 
 ![Alt text](https://github.com/ImagineDogs/TranstornosMentais/blob/main/prior_to_git.jpg "a title")
 
+### Guia de reprodutividade:
+
+####Limpeza dos dados:
+dados brutos(total_dataset.csv) -> Limpeza.ipynb -> df_limpo.csv
+
+####Obtenção de rótulos CID10:
+df_limpo.csv,CID_10_familias.csv -> CID10.ipynb -> df_cid10.csv
+
+#### Demais análises
+df_cid10.csv -> Exploracao.ipynb
+df_cid10.csv -> Associacoes_Correlacoes.ipynb
